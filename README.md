@@ -18,4 +18,4 @@ Here we like to provide complain facility for students in University level
 * [Tharanika - 2017/ICT/86](https://github.com/tharanika98)
 
 
-Course Project under [Gopinath Sittampalalm](https://github.com/SGopinath89)
+Course Project under [Yasotha Ram Ramanan](https://github.com/)
