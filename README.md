@@ -1,4 +1,4 @@
-# U-Care (The Univerty Care)
+# U-Care (The University Care)
 ## An Intra-University Student Complaint Portal ( University of Vavuniya )
 ## Project Overview
 
