@@ -52,9 +52,9 @@ exit();
 					<i class="icon-reorder shaded"></i>
 				</a>
 
-			  	<a class="brand" href="index.html">
-			  		CMS | Admin
-			  	</a>
+			  	<a class="brand" href="../index.html">CMS</a>
+				  <a class="brand" href="#">|</a>
+				  <a class="brand" href="#">Admin</a>
 
 				<div class="nav-collapse collapse navbar-inverse-collapse">
 					<ul class="nav pull-right">
