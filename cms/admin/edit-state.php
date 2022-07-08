@@ -91,12 +91,6 @@ while($row=mysqli_fetch_array($query))
 									</form>
 							</div>
 						</div>
-
-
-						
-
-						
-						
 					</div><!--/.content-->
 				</div><!--/.span9-->
 			</div>

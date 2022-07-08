@@ -51,7 +51,7 @@ if(isset($_GET['del']))
 
 						<div class="module">
 							<div class="module-head">
-								<h3>State</h3>
+								<h3>Department</h3>
 							</div>
 							<div class="module-body">
 
@@ -79,7 +79,7 @@ if(isset($_GET['del']))
 <div class="control-group">
 <label class="control-label" for="basicinput">Department Name</label>
 <div class="controls">
-<input type="text" placeholder="Enter State Name"  name="state" class="span8 tip" required>
+<input type="text" placeholder="Enter Department Name"  name="state" class="span8 tip" required>
 </div>
 </div>
 

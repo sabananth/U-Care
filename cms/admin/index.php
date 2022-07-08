@@ -5,7 +5,7 @@ include("include/config.php");
 if(isset($_POST['submit']))
 {
 	$username=$_POST['username'];
-	$password=($_POST['password']);
+	$password=md5($_POST['password']);
 $ret=mysqli_query($con,"SELECT * FROM admin WHERE username='$username' and password='$password'");
 $num=mysqli_fetch_array($ret);
 if($num>0)

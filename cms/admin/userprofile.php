@@ -38,14 +38,10 @@ while($row=mysqli_fetch_array($ret1))
 {
 ?>
 
-    
-  
-		
     <tr>
       <td colspan="2"><b><?php echo $row['fullName'];?>'s profile</b></td>
       
     </tr>
-    
     
     <tr>
       <td  >&nbsp;</td>
