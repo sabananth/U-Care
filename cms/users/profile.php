@@ -142,10 +142,10 @@ while ($rw=mysqli_fetch_array($sql)) {
 
 
 <div class="form-group">
-<label class="col-sm-2 col-sm-2 control-label">Pincode</label>
+ <!--<label class="col-sm-2 col-sm-2 control-label">Pincode</label>
 <div class="col-sm-4">
 <input type="text" name="pincode" maxlength="6" required="required" value="<?php echo htmlentities($row['pincode']);?>" class="form-control">
-</div>
+</div>-->
 <label class="col-sm-2 col-sm-2 control-label">Reg Date </label>
 <div class="col-sm-4">
 <input type="text" name="regdate" required="required" value="<?php echo htmlentities($row['regDate']);?>" class="form-control" readonly>
